@@ -1,0 +1,21 @@
+,identifier,total,overflow,PU 0-999
+0,L1 HT > 200 GeV,0.0,0.0,0.0
+1,L1 HT > 400 GeV,0.0,0.0,0.0
+0,L1 HT_Emu > 200 GeV,0.0,0.0,0.0
+1,L1 HT_Emu > 400 GeV,0.0,0.0,0.0
+0,L1 JetET_BE > 100 GeV,0.0,0.0,0.0
+1,L1 JetET_BE > 200 GeV,0.0,0.0,0.0
+0,L1 JetET_BE_Emu > 100 GeV,0.0,0.0,0.0
+1,L1 JetET_BE_Emu > 200 GeV,0.0,0.0,0.0
+0,L1 JetET_HF > 100 GeV,0.0,0.0,0.0
+1,L1 JetET_HF > 200 GeV,0.0,0.0,0.0
+0,L1 JetET_HF_Emu > 100 GeV,0.0,0.0,0.0
+1,L1 JetET_HF_Emu > 200 GeV,0.0,0.0,0.0
+1,L1 METBE > 150 GeV,0.0,0.0,0.0
+0,L1 METBE > 80 GeV,0.0,0.0,0.0
+1,L1 METBE_Emu > 150 GeV,0.0,0.0,0.0
+0,L1 METBE_Emu > 80 GeV,0.0,0.0,0.0
+1,L1 METHF > 150 GeV,0.0,0.0,0.0
+0,L1 METHF > 80 GeV,0.0,0.0,0.0
+1,L1 METHF_Emu > 150 GeV,0.0,0.0,0.0
+0,L1 METHF_Emu > 80 GeV,0.0,0.0,0.0
