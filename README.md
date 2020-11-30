@@ -88,6 +88,7 @@ cmsl1t -c $CFOLDER/p1JetMet_rates_PHIRING.yaml
 nano $CFOLDER/p1JetMet_CHUNKY.yaml
 nano $CFOLDER/p1JetMet_PHIRING.yaml
 ```
+Remember [] (array brackets) around values
 
 
 ## 2. Produce plots
